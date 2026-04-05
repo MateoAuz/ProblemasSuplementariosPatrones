@@ -1,0 +1,14 @@
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligente\TicTacToeInteligente\bin\Debug\net10.0\TicTacToeInteligente.exe
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligente\TicTacToeInteligente\bin\Debug\net10.0\TicTacToeInteligente.deps.json
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligente\TicTacToeInteligente\bin\Debug\net10.0\TicTacToeInteligente.runtimeconfig.json
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligente\TicTacToeInteligente\bin\Debug\net10.0\TicTacToeInteligente.dll
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligente\TicTacToeInteligente\bin\Debug\net10.0\TicTacToeInteligente.pdb
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligente\TicTacToeInteligente\obj\Debug\net10.0\TicTacToeInteligente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligente\TicTacToeInteligente\obj\Debug\net10.0\TicTacToeInteligente.AssemblyInfoInputs.cache
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligente\TicTacToeInteligente\obj\Debug\net10.0\TicTacToeInteligente.AssemblyInfo.cs
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligente\TicTacToeInteligente\obj\Debug\net10.0\TicTacToeInteligente.csproj.CoreCompileInputs.cache
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligente\TicTacToeInteligente\obj\Debug\net10.0\TicTacToeInteligente.dll
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligente\TicTacToeInteligente\obj\Debug\net10.0\refint\TicTacToeInteligente.dll
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligente\TicTacToeInteligente\obj\Debug\net10.0\TicTacToeInteligente.pdb
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligente\TicTacToeInteligente\obj\Debug\net10.0\TicTacToeInteligente.genruntimeconfig.cache
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligente\TicTacToeInteligente\obj\Debug\net10.0\ref\TicTacToeInteligente.dll
