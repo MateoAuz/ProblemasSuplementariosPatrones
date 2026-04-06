@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Viajero TSP | Optimizador Web</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="glass-panel">
+            <div class="logo">
+                <div class="icon">☍</div>
+                <h1>RUTAS<span class="highlight">TSP</span></h1>
+            </div>
+            <p class="subtitle">Heurística: Branch and Bound</p>
+        </header>
+
+        <!-- Main Content -->
+        <main>
+            <!-- Map Visualization -->
+            <section class="map-section glass-panel">
+                <div class="map-header">
+                    <h2>Mapa Geográfico Virtual</h2>
+                    <button id="startBtn" class="primary-btn">Descubrir Ruta Óptima</button>
+                </div>
+                <div class="map-canvas-container" id="mapContainer">
+                    <svg id="linesContainer" width="100%" height="100%">
+                        <!-- Path lines will be injected here via JS -->
+                    </svg>
+                    <!-- Cities will be injected here via JS -->
+                </div>
+            </section>
+
+            <!-- Sidebar Results -->
+            <aside class="results-sidebar glass-panel">
+                <div class="distance-matrix">
+                    <h3>Matriz de Distancias (Km)</h3>
+                    <table id="matrixTable">
+                        <!-- Populated by JS -->
+                    </table>
+                </div>
+
+                <div class="execution-results">
+                    <h3>Progreso de Ejecución</h3>
+                    <div id="statusBadge" class="status-badge standby">Esperando ejecución...</div>
+                    <ul id="pathList" class="path-list">
+                        <!-- Populated step-by-step -->
+                    </ul>
+                    <div class="total-cost-container">
+                        <span class="cost-label">Costo Total Óptimo:</span>
+                        <span id="totalCostValue" class="cost-value">---</span>
+                    </div>
+                </div>
+            </aside>
+        </main>
+    </div>
+    
+    <script src="app.js"></script>
+</body>
+</html>

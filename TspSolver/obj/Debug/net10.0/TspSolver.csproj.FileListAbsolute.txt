@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\UTA\Quinto Semestre\P. Diseño\Viajero\TspSolver\bin\Debug\net10.0\TspSolver.exe
+C:\Users\USER\Desktop\UTA\Quinto Semestre\P. Diseño\Viajero\TspSolver\bin\Debug\net10.0\TspSolver.deps.json
+C:\Users\USER\Desktop\UTA\Quinto Semestre\P. Diseño\Viajero\TspSolver\bin\Debug\net10.0\TspSolver.runtimeconfig.json
+C:\Users\USER\Desktop\UTA\Quinto Semestre\P. Diseño\Viajero\TspSolver\bin\Debug\net10.0\TspSolver.dll
+C:\Users\USER\Desktop\UTA\Quinto Semestre\P. Diseño\Viajero\TspSolver\bin\Debug\net10.0\TspSolver.pdb
+C:\Users\USER\Desktop\UTA\Quinto Semestre\P. Diseño\Viajero\TspSolver\obj\Debug\net10.0\TspSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\UTA\Quinto Semestre\P. Diseño\Viajero\TspSolver\obj\Debug\net10.0\TspSolver.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\UTA\Quinto Semestre\P. Diseño\Viajero\TspSolver\obj\Debug\net10.0\TspSolver.AssemblyInfo.cs
+C:\Users\USER\Desktop\UTA\Quinto Semestre\P. Diseño\Viajero\TspSolver\obj\Debug\net10.0\TspSolver.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\UTA\Quinto Semestre\P. Diseño\Viajero\TspSolver\obj\Debug\net10.0\TspSolver.dll
+C:\Users\USER\Desktop\UTA\Quinto Semestre\P. Diseño\Viajero\TspSolver\obj\Debug\net10.0\refint\TspSolver.dll
+C:\Users\USER\Desktop\UTA\Quinto Semestre\P. Diseño\Viajero\TspSolver\obj\Debug\net10.0\TspSolver.pdb
+C:\Users\USER\Desktop\UTA\Quinto Semestre\P. Diseño\Viajero\TspSolver\obj\Debug\net10.0\TspSolver.genruntimeconfig.cache
+C:\Users\USER\Desktop\UTA\Quinto Semestre\P. Diseño\Viajero\TspSolver\obj\Debug\net10.0\ref\TspSolver.dll
