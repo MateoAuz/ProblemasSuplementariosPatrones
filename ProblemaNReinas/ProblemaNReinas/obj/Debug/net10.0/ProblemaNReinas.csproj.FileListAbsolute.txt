@@ -1,0 +1,14 @@
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\ProblemaNReinas\ProblemaNReinas\bin\Debug\net10.0\ProblemaNReinas.exe
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\ProblemaNReinas\ProblemaNReinas\bin\Debug\net10.0\ProblemaNReinas.deps.json
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\ProblemaNReinas\ProblemaNReinas\bin\Debug\net10.0\ProblemaNReinas.runtimeconfig.json
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\ProblemaNReinas\ProblemaNReinas\bin\Debug\net10.0\ProblemaNReinas.dll
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\ProblemaNReinas\ProblemaNReinas\bin\Debug\net10.0\ProblemaNReinas.pdb
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\ProblemaNReinas\ProblemaNReinas\obj\Debug\net10.0\ProblemaNReinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\ProblemaNReinas\ProblemaNReinas\obj\Debug\net10.0\ProblemaNReinas.AssemblyInfoInputs.cache
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\ProblemaNReinas\ProblemaNReinas\obj\Debug\net10.0\ProblemaNReinas.AssemblyInfo.cs
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\ProblemaNReinas\ProblemaNReinas\obj\Debug\net10.0\ProblemaNReinas.csproj.CoreCompileInputs.cache
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\ProblemaNReinas\ProblemaNReinas\obj\Debug\net10.0\ProblemaNReinas.dll
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\ProblemaNReinas\ProblemaNReinas\obj\Debug\net10.0\refint\ProblemaNReinas.dll
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\ProblemaNReinas\ProblemaNReinas\obj\Debug\net10.0\ProblemaNReinas.pdb
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\ProblemaNReinas\ProblemaNReinas\obj\Debug\net10.0\ProblemaNReinas.genruntimeconfig.cache
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\ProblemaNReinas\ProblemaNReinas\obj\Debug\net10.0\ref\ProblemaNReinas.dll

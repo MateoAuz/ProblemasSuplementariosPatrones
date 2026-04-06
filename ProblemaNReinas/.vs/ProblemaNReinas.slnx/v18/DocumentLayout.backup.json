@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oguev\\OneDrive\\Documentos\\Patrones de Software\\ProblemaNReinas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C86E2935-E0CD-4C6A-9201-68FDEF369F01}|ProblemaNReinas\\ProblemaNReinas.csproj|c:\\users\\oguev\\onedrive\\documentos\\patrones de software\\problemanreinas\\problemanreinas\\nqueenssolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86E2935-E0CD-4C6A-9201-68FDEF369F01}|ProblemaNReinas\\ProblemaNReinas.csproj|solutionrelative:problemanreinas\\nqueenssolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86E2935-E0CD-4C6A-9201-68FDEF369F01}|ProblemaNReinas\\ProblemaNReinas.csproj|c:\\users\\oguev\\onedrive\\documentos\\patrones de software\\problemanreinas\\problemanreinas\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86E2935-E0CD-4C6A-9201-68FDEF369F01}|ProblemaNReinas\\ProblemaNReinas.csproj|solutionrelative:problemanreinas\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86E2935-E0CD-4C6A-9201-68FDEF369F01}|ProblemaNReinas\\ProblemaNReinas.csproj|c:\\users\\oguev\\onedrive\\documentos\\patrones de software\\problemanreinas\\problemanreinas\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86E2935-E0CD-4C6A-9201-68FDEF369F01}|ProblemaNReinas\\ProblemaNReinas.csproj|solutionrelative:problemanreinas\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86E2935-E0CD-4C6A-9201-68FDEF369F01}|ProblemaNReinas\\ProblemaNReinas.csproj|c:\\users\\oguev\\onedrive\\documentos\\patrones de software\\problemanreinas\\problemanreinas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86E2935-E0CD-4C6A-9201-68FDEF369F01}|ProblemaNReinas\\ProblemaNReinas.csproj|solutionrelative:problemanreinas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\oguev\\OneDrive\\Documentos\\Patrones de Software\\ProblemaNReinas\\ProblemaNReinas\\Game.cs",
+              "RelativeDocumentMoniker": "ProblemaNReinas\\Game.cs",
+              "ToolTip": "C:\\Users\\oguev\\OneDrive\\Documentos\\Patrones de Software\\ProblemaNReinas\\ProblemaNReinas\\Game.cs",
+              "RelativeToolTip": "ProblemaNReinas\\Game.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T22:39:35.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NQueensSolver.cs",
+              "DocumentMoniker": "C:\\Users\\oguev\\OneDrive\\Documentos\\Patrones de Software\\ProblemaNReinas\\ProblemaNReinas\\NQueensSolver.cs",
+              "RelativeDocumentMoniker": "ProblemaNReinas\\NQueensSolver.cs",
+              "ToolTip": "C:\\Users\\oguev\\OneDrive\\Documentos\\Patrones de Software\\ProblemaNReinas\\ProblemaNReinas\\NQueensSolver.cs",
+              "RelativeToolTip": "ProblemaNReinas\\NQueensSolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T22:39:25.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\oguev\\OneDrive\\Documentos\\Patrones de Software\\ProblemaNReinas\\ProblemaNReinas\\Board.cs",
+              "RelativeDocumentMoniker": "ProblemaNReinas\\Board.cs",
+              "ToolTip": "C:\\Users\\oguev\\OneDrive\\Documentos\\Patrones de Software\\ProblemaNReinas\\ProblemaNReinas\\Board.cs",
+              "RelativeToolTip": "ProblemaNReinas\\Board.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T22:39:14.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oguev\\OneDrive\\Documentos\\Patrones de Software\\ProblemaNReinas\\ProblemaNReinas\\Program.cs",
+              "RelativeDocumentMoniker": "ProblemaNReinas\\Program.cs",
+              "ToolTip": "C:\\Users\\oguev\\OneDrive\\Documentos\\Patrones de Software\\ProblemaNReinas\\ProblemaNReinas\\Program.cs",
+              "RelativeToolTip": "ProblemaNReinas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T22:38:57.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
