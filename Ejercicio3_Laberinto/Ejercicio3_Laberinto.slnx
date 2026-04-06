@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Ejercicio3_Laberinto/Ejercicio3_Laberinto.csproj" />
+  <Project Path="Ejercicio3_Laberinto.UI/Ejercicio3_Laberinto.UI.csproj" />
+</Solution>
