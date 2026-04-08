@@ -1,0 +1,16 @@
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligenteGUI\TicTacToeInteligenteGUI\bin\Debug\net10.0-windows\TicTacToeInteligenteGUI.exe
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligenteGUI\TicTacToeInteligenteGUI\bin\Debug\net10.0-windows\TicTacToeInteligenteGUI.deps.json
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligenteGUI\TicTacToeInteligenteGUI\bin\Debug\net10.0-windows\TicTacToeInteligenteGUI.runtimeconfig.json
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligenteGUI\TicTacToeInteligenteGUI\bin\Debug\net10.0-windows\TicTacToeInteligenteGUI.dll
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligenteGUI\TicTacToeInteligenteGUI\bin\Debug\net10.0-windows\TicTacToeInteligenteGUI.pdb
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligenteGUI\TicTacToeInteligenteGUI\obj\Debug\net10.0-windows\TicTacToeInteligenteGUI.MainForm.resources
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligenteGUI\TicTacToeInteligenteGUI\obj\Debug\net10.0-windows\TicTacToeInteligenteGUI.csproj.GenerateResource.cache
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligenteGUI\TicTacToeInteligenteGUI\obj\Debug\net10.0-windows\TicTacToeInteligenteGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligenteGUI\TicTacToeInteligenteGUI\obj\Debug\net10.0-windows\TicTacToeInteligenteGUI.AssemblyInfoInputs.cache
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligenteGUI\TicTacToeInteligenteGUI\obj\Debug\net10.0-windows\TicTacToeInteligenteGUI.AssemblyInfo.cs
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligenteGUI\TicTacToeInteligenteGUI\obj\Debug\net10.0-windows\TicTacToeInteligenteGUI.csproj.CoreCompileInputs.cache
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligenteGUI\TicTacToeInteligenteGUI\obj\Debug\net10.0-windows\TicTacToeInteligenteGUI.dll
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligenteGUI\TicTacToeInteligenteGUI\obj\Debug\net10.0-windows\refint\TicTacToeInteligenteGUI.dll
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligenteGUI\TicTacToeInteligenteGUI\obj\Debug\net10.0-windows\TicTacToeInteligenteGUI.pdb
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligenteGUI\TicTacToeInteligenteGUI\obj\Debug\net10.0-windows\TicTacToeInteligenteGUI.genruntimeconfig.cache
+C:\Users\oguev\OneDrive\Documentos\Patrones de Software\TicTacToeInteligenteGUI\TicTacToeInteligenteGUI\obj\Debug\net10.0-windows\ref\TicTacToeInteligenteGUI.dll
