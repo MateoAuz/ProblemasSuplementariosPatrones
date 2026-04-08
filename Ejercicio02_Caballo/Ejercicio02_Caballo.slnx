@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/Application/">
+    <Project Path="Ejercicio02_Caballo.Application/Ejercicio02_Caballo.Application.csproj" Id="2ef17fe7-3cfa-4e6d-953f-c4841ff6d666" />
+  </Folder>
+  <Folder Name="/Core/">
+    <Project Path="Ejercicio02_Caballo.Domain/Ejercicio02_Caballo.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infractucture/">
+    <Project Path="Ejercicio02_Caballo.Infrastructure/Ejercicio02_Caballo.Infrastructure.csproj" Id="55e2b7ff-8c93-47eb-b9ab-6f855f8449b7" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Ejercicio02_Caballo.Tests/Ejercicio02_Caballo.Tests.csproj" Id="98a57512-6ee2-460a-80fb-013786f648df" />
+  </Folder>
+  <Folder Name="/UI/">
+    <Project Path="Ejercicio02_Caballo.WinForms/Ejercicio02_Caballo.WinForms.csproj" />
+    <Project Path="Ejercicio02_Caballo.UI/Ejercicio02_Caballo.UI.csproj" Id="b53a3ed9-d28f-452d-bc02-e2088f6ccb77" />
+  </Folder>
+</Solution>
